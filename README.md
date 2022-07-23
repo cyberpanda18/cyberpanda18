@@ -1,5 +1,5 @@
 
-<h1[![MasterHead]](https://cyberpanda18.io) align="center">Hi 👋, I'm Navya Srivastava</h1>
+<h1>Hi 👋, I'm Navya Srivastava</h1>
 <h3 align="center">A passionate front end developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1hqXq3hd91IX7BHJiTKLq7R8thqMMdLeb/view?usp=sharing"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberpanda18&label=Profile%20views&color=0e75b6&style=flat" alt="cyberpanda18" /> </p>
