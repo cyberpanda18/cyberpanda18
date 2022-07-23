@@ -1,7 +1,7 @@
 
 <h1>Hi 👋, I'm Navya Srivastava</h1>
 <h3 align="center">A passionate front end developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1hqXq3hd91IX7BHJiTKLq7R8thqMMdLeb/view?usp=sharing"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberpanda18&label=Profile%20views&color=0e75b6&style=flat" alt="cyberpanda18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberpanda18" alt="cyberpanda18" /></a> </p>
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19XPEz8BWKlUa3YUBCLTn_QPyadr_Lk2M/view?usp=sharing](https://drive.google.com/file/d/19XPEz8BWKlUa3YUBCLTn_QPyadr_Lk2M/view?usp=sharing)
 
-- ⚡ Fun fact **I am a little too hardworking when happy**
+- ⚡ Fun fact **I am a little too hardworking when happy and rest of the time I am on bed asleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
