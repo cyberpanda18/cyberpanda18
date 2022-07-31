@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **navyacms2002@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/dflO1](shorturl.at/dflO1)
+- 📄 Know about my experiences [https://www.shorturl.at/dflO1](shorturl.at/dflO1)
 
 - ⚡ Fun fact **I am a little too hardworking when happy**
 
