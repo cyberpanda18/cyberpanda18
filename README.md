@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1RvBfoab5AhMS7YIF9OTbCjI_l7gmKU_q/edit?usp=sharing&ouid=111567536834650193585&rtpof=true&sd=true)
 
-- ⚡ Fun fact **I am a little too hardworking when happy**
+- ⚡ Fun fact **I am a bibliophile who loves cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
